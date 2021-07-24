@@ -1,3 +1,10 @@
+## Whatsapp Clone Kuncreative Frontend
+
+This repository for a Frontend side.
+You can match with Backend in [Whatsapp Clone Backend]
+(https://github.com/k-cicek/WhatAppClone-Backend).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
