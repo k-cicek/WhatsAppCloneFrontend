@@ -22,4 +22,5 @@ You can test using via using this firebase [the link](https://lnkd.in/dKk3etp )
 
 
 
-<img width="755" alt="Screen Shot 2021-07-21 at 23 12 25" src="https://user-images.githubusercontent.com/79858870/126946046-55a92ef3-e7a5-497a-81fa-5d7472693e51.png">
+<img width="755" height="500" alt="Screen Shot 2021-07-21 at 23 12 25" src="https://user-images.githubusercontent.com/79858870/126946046-55a92ef3-e7a5-497a-81fa-5d7472693e51.png">
+<img width="755" alt="Screen Shot 2021-07-25 at 00 20 41" src="https://user-images.githubusercontent.com/79858870/126946472-e27e315e-fadf-47b7-b20c-501cdb5e7830.png">
